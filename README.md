@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitali20101995
+- 👋 Hi, I’m @MitaliAhir
 - 👀 I’m interested in mobile applications design and development.
 - 🌱 I’m currently learning advanced development concepts and improve my skills in development area.
 - 💞️ I’m looking to collaborate on software solutions based on technology like Java, Swift, Kotlin
